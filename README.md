@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-nisidozi&layout=compact&hide_border=true&title_color=EEE8AA&text_color=FFE4E1&bg_color=0d1117" />
 </div>
 
-- 🔭 I’m currently working on Ford Motor Company with Data Engineering.
+- 🔭 I’m currently working at Ford Motor Company with Data Engineering.
 - 🌱 I’m currently learning Cloud Computing, Data Pipelines Building End to End, Data Orchestration, Machine Learning. 
 - 👯 I’m looking to collaborate on Data Engineering, Data Science, Software Development, DevOps and Back-End projects.
 - 📫 How to reach me: ```vinicius.nisidozi@gmail.com```
